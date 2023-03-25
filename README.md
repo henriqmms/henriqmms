@@ -1,14 +1,14 @@
 ## Hello World, I'm Rick!
 
 - 🔭 I’m currently available for job offers, contact me!
-- 🌱 Learning a lot of things but currently front-end and database
+- 🌱 Learning a lot of things but currently front-end, back-end and database
 - 📫 How to reach me: henrique.marquesmoreira@gmail.com
 - 😄 Pronouns: he/him
 
 ### Olá Mundo, Sou o Rick!
 
 - 🔭 Estou disponível para propostas de emprego atualmente, contate-me!
-- 🌱 Aprendendo um monte de coisas mas atualmente front-end e banco de dados
+- 🌱 Aprendendo um monte de coisas mas atualmente front-end, back-end e banco de dados
 - 📫 Como falar comigo: henrique.marquesmoreira@gmail.com
 - 😄 Pronomes: ele/dele
 
